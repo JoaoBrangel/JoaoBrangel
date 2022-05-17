@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/JoaoBrangel">
+<a href="https://github.com/JoaoBrangel/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoBrangel&show_icons=false&theme=dracula&title_color=1DE0BC&include_all_commits=true&count_private=true"/>
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBrangel&layout=compact&langs_count=7&theme=dracula&title_color=red"/>
