@@ -1,4 +1,4 @@
-### Opa!! 👋
+### Opa!! 👋 Bem vindo ao meu perfil, esses são todos os meus projetos de estudo e profissionalmente. Atualmente estou trabalhando como Analista mas penso em virar dev mais especificanmente dev mobile.
 
 <!--
 **JoaoBrangel/JoaoBrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
